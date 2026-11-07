@@ -1,1 +1,0 @@
-# Physics-Informed-Neural-Networks-for-Parameter-Estimation-in-Non-Isothermal-Chemical-Reactors
